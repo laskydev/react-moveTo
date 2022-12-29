@@ -1,7 +1,7 @@
 {
-  "name": "moveto",
-  "version": "1.8.3",
-  "description": "A lightweight scroll animation javascript library without any dependency.",
+  "name": "react-moveto",
+  "version": "0.1.1",
+  "description": "A React port for lightweight scroll animation javascript library without any dependency.",
   "main": "dist/moveTo.js",
   "scripts": {
     "gulp": "gulp",
@@ -24,7 +24,7 @@
     "smooth",
     "smoothscroll"
   ],
-  "author": "Hasan Aydoğdu <hsnaydd@gmail.com>",
+  "author": "Laskydev <eduardo@buildstatic.co>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hsnaydd/moveTo/issues"

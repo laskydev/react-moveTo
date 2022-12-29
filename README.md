@@ -1,21 +1,21 @@
 # MoveTo [![Version](https://img.shields.io/npm/v/moveto.svg?style=flat)](https://www.npmjs.com/package/moveto) [![CDNJS version](https://img.shields.io/cdnjs/v/moveTo.svg?style=flat)](https://cdnjs.com/libraries/moveTo) [![CI Status](https://github.com/hsnaydd/moveTo/actions/workflows/pr.yml/badge.svg)](https://github.com/hsnaydd/moveTo/actions/workflows/pr.yml)
 
-A lightweight (only 1kb gzipped) scroll animation javascript library without any dependency.
+A React Port for lightweight (only 1kb gzipped) scroll animation javascript library without any dependency.
 
-[Demo](https://hsnaydd.github.io/moveTo/demo/)
+<!-- [Demo](https://hsnaydd.github.io/moveTo/demo/) -->
 
 ## Installation
 
 ### Using npm
 
 ```sh
-$ npm install moveto --save
+$ npm install react-moveto --save
 ```
 
 ### Using Yarn
 
 ```sh
-$ yarn add moveto
+$ yarn add react-moveto
 ```
 
 ## Usage
